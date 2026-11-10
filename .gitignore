@@ -426,3 +426,6 @@ FodyWeavers.xsd
 
 # Official VS Code C# Dev Kit Extension exclusion
 #*.lscache
+
+# Hour Report: dữ liệu runtime (báo cáo, cài đặt mail, khóa mã hóa mật khẩu)
+HourReport/HourReport.API/Data/
